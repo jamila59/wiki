@@ -1,0 +1,41 @@
+.sidebar {
+  position: relative;
+  width: 175px;
+  float: left;
+  overflow: hidden;
+  height: 3000px;
+  background-color: #ededed;
+  border-radius: 5px;
+}
+
+.container {
+  float: right;
+}
+
+.sidebar img {
+  width: 175px;
+  float: left;
+}
+ul{
+  padding: inherit;
+}
+
+.panel-body img {
+  float: left;
+  padding-right: 10px;
+  width: 150px;
+}
+
+.col-md-5 {
+  width: 50%;
+}
+
+.header {
+  background-color: #ededed;
+  border-radius: 5px;
+}
+.gh {
+  /* margin-left: 50%;
+  margin-right: 50%; */
+  width: 500%;
+}
