@@ -1,11 +1,11 @@
-# _{Biology Quiz}_
+# _{Wiki-Page}_
 
-#### _{Multiple choice and free response biology quiz}, {October 25,2019}_
+#### _{Replication of Wiki page}, {October 25,2019}_
 
 
 ## Description
 
-_{This application will run a Biology Quiz. The purpose of this quiz is to receive a score back for the responses provided. When the user completes the quiz he or she will receive an image with text which will quantify the amount of questions answered correctly.}_
+_{This application will run a Wikipidia page. The purpose of this page is to mirror a front-page of Wikipidia.}_
 
 ## Setup/Installation Requirements
 
